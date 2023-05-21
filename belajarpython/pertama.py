@@ -1,0 +1,1 @@
+print("Dede yandreka syaputra")
