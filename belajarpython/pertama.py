@@ -1,1 +1,3 @@
-print("Dede yandreka syaputra")
+print("ubi mans")
+print("kakat")
+print("buyas")
